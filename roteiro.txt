@@ -1,6 +1,6 @@
 
 no terminal:
-   npx react-native init rntour
+   npx react-native init minicadastro
 
    npx react-native run-android
    npm start
